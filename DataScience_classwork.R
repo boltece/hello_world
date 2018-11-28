@@ -1,7 +1,7 @@
 
 #### Please Excuse My Dear Aunt Sally ####
 #always remember the order of operations.. Parenthesis, exponents, multiply, divide, add, subtract!
-
+# This is actually pretty cool once you feel confident
 # 2 minus 10 = -8
 2 - 10
 
